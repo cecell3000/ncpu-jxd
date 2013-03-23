@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NCPU</string>
+    <!-- <string name="action_settings">Settings</string>  -->
+    <string name="title_section1">Main</string>
+    <string name="title_section2">Governor</string>
+    <string name="title_section3">About</string>
+    <string name="governor">Governor: </string>
+    <string name="governor_par">Governor parameters</string>
+    <string name="minfreq">Min freq: </string>
+    <string name="maxfreq">Max freq: </string>
+    <string name="about_title">NCPU v0.1 by Vektor</string>
+    <string name="about_text">Text goes here.</string>
+    <string name="current_settings_title">Current settings:</string>
+    <string name="curr_governor">Governor: </string>
+    <string name="curr_minfreq">Min: </string>
+    <string name="curr_maxfreq">Max: </string>
+    <string name="set_at_boot">Apply settings at boot.</string>
+    <string name="curr_freq2">MHz</string>
+    <string name="key">KEY</string>
+    <string name="value">Val</string>
+    <string name="curr_freq1">Current Freq:</string>
+    <string name="author">NCPU 1.0 by Vektor</string>
+    
+</resources>
